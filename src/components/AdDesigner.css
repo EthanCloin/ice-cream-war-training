@@ -1,0 +1,21 @@
+.h-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly left;
+  max-width: 50%;
+  outline: ;
+}
+
+.h-list button {
+  margin-right: 1em;
+}
+
+.ad-display-wrapper {
+  max-width: 50%;
+  height: 25vh;
+  background-color: black;
+}
+
+.ad-display {
+  color: white;
+}
